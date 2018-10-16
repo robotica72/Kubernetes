@@ -1,4 +1,4 @@
-<b>Kubernetes Information</b>
+<b>Kubernetes Information Collection</b>
 
 This Github sections is where I store documents that I have created on Kubernetes subjects.   Most of the documents you will find here assume you have a running Kubernetes cluster - there are many helpful docs out there to install a K8s cluster, but if you are new you may want to look into the instructions at Kubernetes.io: https://kubernetes.io/docs/setup/independent/install-kubeadm/
 
